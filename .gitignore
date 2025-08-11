@@ -4,6 +4,9 @@
 !src/
 !src/**
 !bat.bat
+!README.md
+!README.en.md
+!README.ru.md
 
 HELP.md
 target/
