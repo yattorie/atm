@@ -1,4 +1,4 @@
-# ATM Application
+# ATM
 
 ## Project Author
 ### Orlov Andrei
